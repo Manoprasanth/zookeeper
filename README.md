@@ -5,7 +5,7 @@ https://hyperskill.org/projects/98
 ![image](demonstration.gif)
 
 ## Stages
----
+
 __Stage 1: Rush into print__
 First, letss try to get some simple output from your code.
 
